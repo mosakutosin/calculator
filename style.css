@@ -1,0 +1,60 @@
+body{
+    
+    background-image: url('car.jpg');
+    margin: 100px;
+    padding-left: 20em;
+    padding-right: 20em;
+}
+h4{
+    color: #000;
+
+}
+form{
+    background-color: rgb(255, 255, 255);
+    padding: 10px 50px 50px 50px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif black;
+}
+
+#num1{
+    margin: 30px;
+    border-radius: 5px;
+    height: 30px;
+    font-family: cursive;
+    
+    
+}
+#num2{
+    margin: 30px;
+    border-radius: 5px;
+    height: 30px;
+    font-family: cursive;
+}
+#result{
+    background-color:#C70039;
+    font-size: 30px;
+    height: 20px;
+    font-family: cooper black;
+    padding: 20px 50px 30px 50px;
+    color: #fff;
+}
+#operator{
+    margin: 30px;
+    border-radius: 5px;
+    height: 30px;
+    font-family: cursive;
+}
+#btn{
+    margin: 30px;
+    border-radius: 5px;
+    height: 30px;
+    background-color: rgb(38, 0, 255);
+    color: floralwhite;
+    font-family: cursive;
+}
+#create{
+background-color: #fff;
+padding: 10px 50px 10px 50px;
+
+
+}
